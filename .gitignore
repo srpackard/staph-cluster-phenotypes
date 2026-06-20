@@ -1,0 +1,18 @@
+# Ignore data and image files
+data/
+results/
+*.LIF
+*.lif
+*.tiff
+*.tif
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
