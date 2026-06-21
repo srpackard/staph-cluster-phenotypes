@@ -3,19 +3,18 @@ Here is some important information related to this project:
 
 This workflow is used for image analysis in the following peer-reviewed manuscript: 
         Packard, S. R.; Bulacan, G.; Peiris, B.; Paffenroth, R.; and Stewart, E.J. “Biophysical properties and 
-phenotypes of cell clusters detached from Staphylococcus epidermidis biofilms after matrix-targeted disruption.” 
-Colloids and Surfaces B: Biointerfaces. (2026). https://doi.org/10.1016/j.colsurfb.2026.115620
+        phenotypes of cell clusters detached from Staphylococcus epidermidis biofilms after matrix-targeted disruption.” 
+        Colloids and Surfaces B: Biointerfaces. (2026). https://doi.org/10.1016/j.colsurfb.2026.115620
 
 Image files are available upon request. Please email ejstewart@wpi.edu to request files.
 
 The python jupyter notebooks read .tiff file stacks in folders. The notebook will need 
 to be updated to your file paths. 
-
         The original microscopy image files are .LIF files. 
-There is an ImageJ macro script included under "scripts" that can be used to 
-iteratively save each plane of the .LIF files into separate folders of .tiff images
-for each image volume. To download ImageJ (I recommend Fiji): 
-https://imagej.net/downloads
+        There is an ImageJ macro script included under "scripts" that can be used to 
+        iteratively save each plane of the .LIF files into separate folders of .tiff images
+        for each image volume. To download ImageJ (I recommend Fiji): 
+        https://imagej.net/downloads
 
 There are 20 image volumes per .LIF file, with each image volume  named sequentially 
 "WXSY" with X = [1, 2, 3, 4] and Y = [1, 2, 3, 4, 5], with W corresponding to
