@@ -28,7 +28,7 @@ cell centroids identified from the python scripts. There is a python script that
 searches for cell clusters that fit a given criteria 
 (i.e. the approximate physical properties of each k-means phenotype)
 
-The scripts primarily use the following sources:
+The python scripts primarily use the following sources:
         
         [1] Allan, D. B., Caswell, Thomas, Keim, Nathan C.,  van der Wel, Casper M.,  Verweji, Ruben W. soft-matter/trackpy: Trackpy v0.5.0 (v0.5.0). 2021. DOI: https://doi.org/10.5281/zenodo.4682814.
         [2] Crocker, J. C.; Grier, D. G. Methods of Digital Video Microscopy for Colloidal Studies. Journal of Colloid and Interface Science 1996, 179 (1), 298–310. DOI: https://doi.org/10.1006/jcis.1996.0217.
