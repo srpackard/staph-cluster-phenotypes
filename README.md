@@ -1,3 +1,5 @@
+![Staph Cluster Phenotypes Banner](assets/Graphical-Abstract.jpg)
+
 Welcome to the Staphylococcus epidermidis detached cell cluster phenotypes github repository!
 Here is some important information related to this project:
 
