@@ -21,3 +21,10 @@ Thumbs.db
 !assets/
 !assets/*.png
 !assets/*.jpg
+
+# Allow test dataset files
+!test_data/
+!test_data/*.tiff
+!test_data/*.tif
+!test_data/*.LIF
+!test_data/*.lif
