@@ -17,6 +17,11 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# Allow documentation assets
+!assets/
+!assets/*.png
+!assets/*.jpg
+
 # Allow test dataset files
 !test_data/
 !test_data/*.tiff
