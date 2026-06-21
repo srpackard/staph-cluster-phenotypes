@@ -8,7 +8,7 @@ Welcome to the repository for the *Staphylococcus epidermidis* detached cell clu
 
 This workflow is used for image analysis in the following peer-reviewed manuscript: 
         
-> Packard, S. R., Bulacan, G., Peiris, B., Paffenroth, R., and Stewart, E.J. **“Biophysical properties and phenotypes of cell clusters detached from Staphylococcus epidermidis biofilms after matrix-targeted disruption.”** *Colloids and Surfaces B: Biointerfaces*. (2026). [https://doi.org/10.1016/j.colsurfb.2026.115620](https://doi.org/10.1016/j.colsurfb.2026.115620)
+> Packard, S. R., Bulacan, G., Peiris, B., Paffenroth, R., and Stewart, E.J. **“Biophysical properties and phenotypes of cell clusters detached from *Staphylococcus epidermidis* biofilms after matrix-targeted disruption.”** *Colloids and Surfaces B: Biointerfaces*. (2026). [https://doi.org/10.1016/j.colsurfb.2026.115620](https://doi.org/10.1016/j.colsurfb.2026.115620)
 
 *Note: Image files are available upon request. Please email ejstewart@wpi.edu to request the raw datasets.*
 
