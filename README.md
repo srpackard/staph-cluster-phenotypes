@@ -1,6 +1,6 @@
 ![Graphical Abstract](assets/Graphical-Abstract.jpg)
 
-# Staphylococcus epidermidis Detached Cell Cluster Phenotypes
+# *Staphylococcus epidermidis* Detached Cell Cluster Phenotypes
 
 Welcome to the repository for the *Staphylococcus epidermidis* detached cell cluster phenotypes project! This workflow contains the pipeline for 3D biophysical image analysis and phenotype clustering.
 
@@ -30,6 +30,6 @@ The original microscopy image files are `.LIF` 3D stacks.
 The Python analysis scripts rely heavily on the following foundational libraries:
         
 1. **Trackpy:** Allan, D. B., Caswell, Thomas, Keim, Nathan C.,  van der Wel, Casper M.,  Verweji, Ruben W. soft-matter/trackpy: Trackpy v0.5.0 (v0.5.0). 2021. DOI: [10.5281/zenodo.4682814](https://doi.org/10.5281/zenodo.4682814).
-2. **Video Microscopy Methods:** Crocker, J. C.; Grier, D. G. Methods of Digital Video Microscopy for Colloidal Studies. *Journal of Colloid and Interface Science* 1996, 179 (1), 298–310. DOI: [10.1006/jcis.1996.0217](https://doi.org/10.1006/jcis.1996.0217).
+2. **Particle Identification Method:** Crocker, J. C.; Grier, D. G. Methods of Digital Video Microscopy for Colloidal Studies. *Journal of Colloid and Interface Science* 1996, 179 (1), 298–310. DOI: [10.1006/jcis.1996.0217](https://doi.org/10.1006/jcis.1996.0217).
 3. **Freud:** Ramasubramani, V.; Dice, B. D.; Harper, E. S.; Spellings, M. P.; Anderson, J. A.; Glotzer, S. C. freud: A software suite for high throughput analysis of particle simulation data. *Computer Physics Communications* 2020, 254, 107275. DOI: [10.1016/j.cpc.2020.107275](https://doi.org/10.1016/j.cpc.2020.107275)
 4. **Scikit-Learn:** Pedregosa, F.; Varoquaux, G.; Gramfort, A.; Michel, V.; Thirion, B.; Grisel, O.; Blondel, M.; Prettenhofer, P.; Weiss, R.; Dubourg, V.; et al. Scikit-learn: Machine Learning in Python. *Journal of Machine Learning Research* 2011, 12, 2825––2830.
