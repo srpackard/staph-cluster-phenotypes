@@ -14,14 +14,14 @@ to be updated to your file paths.
         
         The original microscopy image files are .LIF files. 
         There is an ImageJ macro script included under "scripts" that can be used to 
-        iteratively save each plane of the .LIF files into separate folders of .tiff images
+        iteratively save each plane of .LIF files into separate folders of .tiff images
         for each image volume. To download ImageJ (I recommend Fiji): 
         https://imagej.net/downloads
-
-There are 20 image volumes per .LIF file, with each image volume  named sequentially 
-"WXSY" with X = [1, 2, 3, 4] and Y = [1, 2, 3, 4, 5], with W corresponding to
-which well (from an 8-well chambered coverglass dish) the image was taken in, and which 
-sample, S, within the well the image is.
+        
+        There are 20 image volumes per .LIF file, with each image volume  named sequentially 
+        "WXSY" with X = [1, 2, 3, 4] and Y = [1, 2, 3, 4, 5], with W corresponding to
+        which well (from an 8-well chambered coverglass dish) the image was taken in, and which 
+        sample, S, within the well the image is.
 
 Blender scripts are used to create 3D renderings of cell clusters from the 3D coordinates of 
 cell centroids identified from the python scripts. There is a python script that automatically 
